@@ -396,4 +396,41 @@ Go to EC2 console, access security group section and delete security groups crea
 
 
 ---
+
+### Optional Terraform Usage for Infra Creation
+#### Initializing Terraform 
+```
+terraform init
+```
+<img width="616" height="311" alt="image" src="https://github.com/user-attachments/assets/df3e5d1b-f68b-4d54-842c-7bae600ba10f" />
+<img width="617" height="428" alt="image" src="https://github.com/user-attachments/assets/4cb39140-bb2c-49b8-b4ae-290f7c89203f" />
+
+
+#### Terraform Plan
+```
+terraform plan
+```
+<img width="845" height="435" alt="image" src="https://github.com/user-attachments/assets/2ebd1185-8690-41e3-946b-687d85e8bdcf" />
+
+
+#### Terraform Validate
+```
+terraform validate
+```
+<img width="509" height="58" alt="image" src="https://github.com/user-attachments/assets/5810c6be-1c57-4bb4-986f-fa8ab61f3f46" />
+
+
+#### Terraform Apply
+```
+terraform apply
+```
+<img width="736" height="389" alt="image" src="https://github.com/user-attachments/assets/e48df996-5895-438f-b229-1cd4871f7b6c" />
+
+#### Terraform Destroy
+```
+terraform destroy
+```
+<img width="635" height="325" alt="image" src="https://github.com/user-attachments/assets/ea2ed6fa-fff6-4a62-9a84-1427b72a01aa" />
+
+
 Happy Learning! 🚀👨‍💻👩‍💻
